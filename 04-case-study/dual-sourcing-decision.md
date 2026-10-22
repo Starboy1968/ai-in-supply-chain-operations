@@ -108,7 +108,9 @@ The director recommends **option 4, the staged mix**:
 ## Related reading in this portfolio
 
 - [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory): finding hidden tier-2 single points of failure
-- [supply-web-audit](https://github.com/Starboy1968/supply-web-audit): mapping who holds the money and power in a supply web, and how players behave under pressure
+- [behavioral-supply-chain-risk-audit-ai](https://github.com/Starboy1968/behavioral-supply-chain-risk-audit-ai): how bias and pressure create supply chain risk, and how AI triage, audit evidence and human review help catch it
+- [supply-chain-ai-governance-strategy](https://github.com/Starboy1968/supply-chain-ai-governance-strategy): plain-language game theory that explains why supply chain and AI risks persist, and which incentives to change
+- [supply-web-audit](https://github.com/Starboy1968/supply-web-audit): mapping who holds the money and power in a supply web
 - [power-behavior-risk-indicators](https://github.com/Starboy1968/power-behavior-risk-indicators): spotting power and behavior signals in risk decisions
 - [ai-supply-chain-risk-assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment): the risk side of AI in the supply chain
 
