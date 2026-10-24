@@ -74,6 +74,7 @@ The full risk analysis lives in [ai-supply-chain-risk-assessment](https://github
 - [AI for CISA and IT Auditors: Creative Workflow Accelerators](https://github.com/Starboy1968/ai-for-it-auditors): nine practical ways AI can speed up IT audit work, from walkthroughs and SOC 2 review to auditing AI, with a human check at every step.
 - [supply-web-audit](https://github.com/Starboy1968/supply-web-audit): plain-English audit of who you depend on and who holds the money and power
 - [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory): finding hidden tier-2 single points of failure
+- [Localized Small Supply Chain: AI Prompts and Workflows](https://github.com/Starboy1968/localized-small-supply-chain): plain-language AI prompts and workflows for small local businesses: suppliers, ordering, forecasting, lead times and disruption planning.
 
 ## Author
 
